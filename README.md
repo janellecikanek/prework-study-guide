@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - The Prework Study Guide Webpage gives a quick reference guide for students in bootcamp learning HTML, CSS, Javascript and README. 
 - This guide enables a one stop location for reviewing important aspects of bootcamp lessons. 
 - The guide allows students to spend more time learning and less time googling. 
